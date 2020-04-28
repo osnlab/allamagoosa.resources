@@ -1,0 +1,16 @@
+[
+  {
+    "title": "Repositories",
+    "links": [
+      {
+        "to": "/repositories",
+        "contents": [
+          {
+            "to": "#awesome-lists",
+            "name": "Awesome lists"
+          }
+        ]
+      }
+    ]
+  }
+]

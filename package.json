@@ -1,0 +1,22 @@
+{
+  "name": "allamagoosa.resources",
+  "version": "0.1.0",
+  "description": "List of linguistics resources",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/osnlab/allamagoosa.resources.git"
+  },
+  "keywords": [
+    "linguistics"
+  ],
+  "author": "@osnlab (https://github.com/osnlab)",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/osnlab/allamagoosa.resources/issues"
+  },
+  "homepage": "https://github.com/osnlab/allamagoosa.resources#readme",
+  "devDependencies": {
+  }
+}
