@@ -16,6 +16,14 @@ description: Перечень репозиториев с полезными л�
         - [Руководство пользователя][MAG_PLI_1.1]
         - [PaliNLP][MAG_PLI_1.2] - Версия 1
 
+## Поддержка письменности
+
+### Конверторы
+- Языки Индии
+    - [aksharamukha][TRS_LANGIND_1] - обеспечивает транслитерацию различных
+    письменностей Индии
+        - [Aksharamukha : Script Converter][TRS_LANGIND_1.1]
+
 ## Инструменты интеграции
 - Русский
     - [mystem-docker][II_RUS_1] - Программа MyStem - морфологический анализатор
@@ -26,4 +34,6 @@ description: Перечень репозиториев с полезными л�
 [MAG_PLI_1]: https://github.com/daalft/PaliNLP2
 [MAG_PLI_1.1]: https://github.com/daalft/PaliNLP/wiki/User-manual
 [MAG_PLI_1.2]: https://github.com/daalft/PaliNLP
+[TRS_LANGIND_1]: https://github.com/virtualvinodh/aksharamukha
+[TRS_LANGIND_1.1]: http://aksharamukha.appspot.com/
 [II_RUS_1]: https://github.com/azzzak/mystem-docker
