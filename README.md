@@ -1,5 +1,6 @@
 # allamagoosa.resources
-List of linguistics resources
+> List of linguistics resources
+
 > Inspired by [Nuxt.js Documentation][1] repo
 
 > "Offog, one."
